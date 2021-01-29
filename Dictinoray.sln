@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictinoray", "Dictinoray\Dictinoray.csproj", "{B065BDE8-BD87-42B6-A770-5E34845E90F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B065BDE8-BD87-42B6-A770-5E34845E90F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B065BDE8-BD87-42B6-A770-5E34845E90F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B065BDE8-BD87-42B6-A770-5E34845E90F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B065BDE8-BD87-42B6-A770-5E34845E90F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A1F14A-2219-438C-8BA8-96AEB4EA250F}
+	EndGlobalSection
+EndGlobal
